@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String fileName = "src/word-list-short-52.txt";
+        String fileName = "Autocomplete/src/word-list-short-52.txt";
         //Create
         AutoCompleter ac = new AutoCompleter(fileName);
         //Interact with user.
